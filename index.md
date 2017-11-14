@@ -1,6 +1,6 @@
-<!DOCTYPE>
 
-<html>
+
+
 <head>
     <link rel="stylesheet" type="text/css" href="style.css" ></link>
     <link href="https://fonts.googleapis.com/css?family=Anton|Josefin+Sans|Kaushan+Script|Lato:300|Orbitron:700|Saira" rel="stylesheet">
@@ -27,4 +27,4 @@
 </body>
 
 
-</html>
+
